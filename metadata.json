@@ -1,0 +1,6 @@
+{
+  "name": "Campus Placement Portal",
+  "description": "A comprehensive full-stack Campus Placement Portal with Student, Admin, and Recruiter dashboards, integrated with MongoDB, JWT auth, notice boards, and visual placement analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

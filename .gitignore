@@ -1,0 +1,25 @@
+node_modules/
+dist/
+build/
+coverage/
+
+# Local environment files
+.env*
+!.env.example
+
+# Uploaded documents and runtime artifacts
+uploads/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
